@@ -15,7 +15,10 @@
 	padding-bottom: 3rem;
 	border-bottom: 1px solid #e5e5e5;
 }
-
+.bg{
+	background-image: url(./../img/bg.png)!important;
+	border:10px solid red;
+}
 @media only screen and (max-width:640px) {
 	.blog-entry-article {
 		padding-bottom: 1rem;

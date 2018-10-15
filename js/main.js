@@ -145,3 +145,5 @@ jQuery(document).ready(function($) {
 		//Annie_Comment();
 	})();
 });
+
+$(".header-bg-2").addClass("bg");
