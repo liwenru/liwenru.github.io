@@ -79,8 +79,8 @@ jQuery(document).ready(function($) {
 		var random_bg = Math.floor(Math.random() * 1 + 1);
 
 		//var bg = 'url(/img/random/' + random_bg + '.jpg)';
-		var bg = 'url(/img/random/' + random_bg + '.jpg)';
-		console.log(bg)
+		//var bg = 'url(/img/random/' + random_bg + '.jpg)';
+		//console.log(bg)
 		//$("#header-bg-2").css("background-image", "bg.jpg");
 	};
 
