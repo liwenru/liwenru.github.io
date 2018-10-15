@@ -80,8 +80,8 @@ jQuery(document).ready(function($) {
 
 		//var bg = 'url(/img/random/' + random_bg + '.jpg)';
 		var bg = 'url(/img/random/' + random_bg + '.jpg)';
-
-		$("#header-bg-2").css("background-image", bg);
+		console.log(bg)
+		//$("#header-bg-2").css("background-image", "bg.jpg");
 	};
 
 	/* ToTop */
