@@ -16,7 +16,7 @@
 	border-bottom: 1px solid #e5e5e5;
 }
 .bg{
-	background-image: url(./../img/bg.png)!important;
+	background-image: url(./../img/bg.jpg)!important;
 }
 @media only screen and (max-width:640px) {
 	.blog-entry-article {
