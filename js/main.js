@@ -146,4 +146,4 @@ jQuery(document).ready(function($) {
 	})();
 });
 
-$(".header-bg-2").addClass("bg");
+$("#header-bg-2").addClass("bg");
